@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BuienRadarGps", "BuienRadarGps.vbproj", "{64189C38-D99C-4799-9C63-1E7AD7A83F5A}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://jillesmiedema.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BuienRadarGps.vbproj
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64189C38-D99C-4799-9C63-1E7AD7A83F5A}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{64189C38-D99C-4799-9C63-1E7AD7A83F5A}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{64189C38-D99C-4799-9C63-1E7AD7A83F5A}.Debug|Win32.ActiveCfg = Debug|x86
+		{64189C38-D99C-4799-9C63-1E7AD7A83F5A}.Debug|Win32.Build.0 = Debug|x86
+		{64189C38-D99C-4799-9C63-1E7AD7A83F5A}.Debug|x86.ActiveCfg = Release|x86
+		{64189C38-D99C-4799-9C63-1E7AD7A83F5A}.Debug|x86.Build.0 = Release|x86
+		{64189C38-D99C-4799-9C63-1E7AD7A83F5A}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{64189C38-D99C-4799-9C63-1E7AD7A83F5A}.Release|Mixed Platforms.Build.0 = Release|x86
+		{64189C38-D99C-4799-9C63-1E7AD7A83F5A}.Release|Win32.ActiveCfg = Release|x86
+		{64189C38-D99C-4799-9C63-1E7AD7A83F5A}.Release|Win32.Build.0 = Release|x86
+		{64189C38-D99C-4799-9C63-1E7AD7A83F5A}.Release|x86.ActiveCfg = Release|x86
+		{64189C38-D99C-4799-9C63-1E7AD7A83F5A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
